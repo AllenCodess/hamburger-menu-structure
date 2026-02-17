@@ -22,7 +22,7 @@ li {
   padding: 0 1rem;
 }
 
-ul {
+.navbar .main-menu-lists {
   display: flex;
 }
 
